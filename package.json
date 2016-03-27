@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/luAr26/api-mongodb-express/issues"
   },
-  "homepage": "https://github.com/luAr26/api-mongodb-express#readme"
+  "homepage": "https://github.com/luAr26/api-mongodb-express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.10"
+  }
 }
