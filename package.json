@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/luAr26/api-mongodb-express",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luAr26/api-mongodb-express.git"
+  },
   "author": "luAr26",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luAr26/api-mongodb-express/issues"
+  },
+  "homepage": "https://github.com/luAr26/api-mongodb-express#readme"
 }
