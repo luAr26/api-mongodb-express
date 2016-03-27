@@ -1,0 +1,11 @@
+{
+  "name": "build-api-with-mongodb-express",
+  "version": "1.0.0",
+  "description": "Simple REST API with Mongodb and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luAr26",
+  "license": "MIT"
+}
